@@ -1,1 +1,1 @@
-rvm --create use "ruby-1.9.3-p193@made_in_israel"
+rvm --create use "ruby-1.9.3-p194@made_in_israel"
